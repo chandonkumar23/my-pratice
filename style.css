@@ -135,4 +135,12 @@ main-section{
 .resume-column-title{
     font-weight: 700;
     font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.item-title{
+    font-weight: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.resume-container hr{
+    margin: 30px;
 }
