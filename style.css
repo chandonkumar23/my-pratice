@@ -71,7 +71,11 @@ nav a {
     border: 5px solid rgb(255, 208, 0);
     box-shadow: 10px 5px 5px 5px rgb(231, 130, 130);
 }
-.me{
+main{
+    max-width: 1140px;
+    margin: 0 auto; 
+}
+.about{
     padding: 150px;
     border-radius: 10px;
     background: rgb(234, 213, 213);
@@ -86,3 +90,12 @@ nav a {
     text-align: center;
   
 }
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+}
+   
+    
